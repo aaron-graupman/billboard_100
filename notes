@@ -1,0 +1,27 @@
+//gen note// style all pages
+
+---main page---
+
+** Working **
+  Billboard selection
+
+** Not Working **
+
+
+** Need to Add **
+  link to navigate to all artists and songs currently available in the db
+
+
+---individual billboard page---
+** Working **
+  Return to main page
+
+** Not Working **
+
+
+** Need to Add **
+  relevant info from artist/dongs db's
+  order info by certain parameters
+  click on artist to view all songs by selected artist
+  click on song to view artist and album
+  click preview on son song to listen via spotify
