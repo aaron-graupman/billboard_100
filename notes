@@ -20,8 +20,34 @@
 
 
 ** Need to Add **
-  relevant info from artist/dongs db's
+  relevant info from artist/songs db's
   order info by certain parameters
+  click on artist to view all info relevant to selected artist
+  click on song to view artist and album
+  click preview on song to listen via spotify
+
+---artist pages---
+** Working **
+
+
+** Not Working **
+
+
+** Need to Add **
+  relevant info for artist(genre, songs, albums sold)
+  click on songs to view all songs by selected artist
+  sort info by certain parameters
+
+---song pages---
+** Working **
+
+
+** Not Working **
+
+
+** Need to Add **
+  relevant info from artist
+  order info by certain parameters(duration, genre, title, )
   click on artist to view all songs by selected artist
   click on song to view artist and album
-  click preview on son song to listen via spotify
+  click preview on song to listen via spotify
